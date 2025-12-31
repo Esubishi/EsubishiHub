@@ -1,1 +1,2 @@
-local Repo = "https://github.com/Esubishi/EsubishiHub/tree/481b0cf886c37a888b801489124bc1f52caf7288/Scrtips"
+local Repo = "https://raw.githubusercontent.com/Esubishi/EsubishiHub/refs/heads/main/Scripts/"
+local ForsakenScript = game:HttpGet(Repo.."Forsaken/Main.luau")
